@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="img/"
+dir="img/" 
 
 count=1
 
