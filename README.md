@@ -1,5 +1,5 @@
 # Web Demo
-[Watch Video](mp4/beauti.mp4)
+[Watch Video](blob/main/mp4/beauti.mp4)
 ![Project Logo](img/79.png)
 ![Project Logo](img/81.png)
 ![Project Logo](img/80.png)
